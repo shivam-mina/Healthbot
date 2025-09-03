@@ -1,0 +1,2 @@
+# Healthbot
+Cluster Health Check
